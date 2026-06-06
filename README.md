@@ -12,20 +12,6 @@ This repository contains implementations and applications of fundamental compute
 
 Perfect for learning and demonstrating practical applications of data science and machine learning.
 
-## Project Structure
-
-```
-Data-Structures_and_Algorithms/
-├── README.md                                    # This file
-├── LICENSE                                      # Apache 2.0 License
-├── CustomerLoyaltyCardData.csv                  # Dataset: Customer loyalty/shopping data
-│
-├── walmart_customer_analysis..py                # Walmart customer analysis & visualization
-├── customer_segmentation_K-Means_Clustering.py  # K-Means clustering for customer segments
-├── DataAnalysisWithRegression_and_arima.py      # Regression and ARIMA forecasting
-│
-└── venv/                                        # Python virtual environment
-```
 
 ## Main Projects
 
